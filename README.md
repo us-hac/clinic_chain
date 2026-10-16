@@ -49,7 +49,7 @@ making records tamper-proof and auditable.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/clinicchain.git
+git clone https://github.com/your-username/clinic_chain.git
 cd clinicchain
 ```
 
